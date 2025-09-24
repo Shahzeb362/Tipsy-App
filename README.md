@@ -1,7 +1,7 @@
 # 💸 Tipsy  
 
 **tip calculator app**
-Enter the total bill, select the number of people, choose a tip percentage, and Tipsy will calculate how much each person should pay.  
+Enter the total bill, select the number of people, choose a tip percentage, and it will calculate how much each person should pay.  
 
 ---
 

@@ -15,8 +15,8 @@ Enter the total bill, select the number of people, choose a tip percentage, and 
 ## 📱 Screenshots  
 
 <p align="left">
-  <img src="Document/screenshot1.png" alt="Input Screen" width="250"/>
-  <img src="Document/screenshot2.png" alt="Result Screen" width="250"/>
+  <img src="Document/screenshot3.png" alt="Input Screen" width="250"/>
+  <img src="Document/screenshot4.png" alt="Result Screen" width="250"/>
 </p>  
 
 ---
